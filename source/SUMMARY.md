@@ -26,7 +26,6 @@
   * [Rendering with Helpers](templates/rendering-with-helpers.md)
   * [Writing Helpers](templates/writing-helpers.md)
 * [Routing](routing/index.md)
-  * [Introduction](routing.md)
   * [Defining Your Routes](routing/defining-your-routes.md)
   * [Generated Objects](routing/generated-objects.md)
   * [Specifying a Route's Model](routing/specifying-a-routes-model.md)
